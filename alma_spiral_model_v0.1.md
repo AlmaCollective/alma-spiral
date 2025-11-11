@@ -1,3 +1,9 @@
+> ⚠️ Experimental research draft.  
+> This document describes a high-level conceptual model (not a final implementation) and is **not intended for medical use**.  
+> Core algorithms, training data and implementation details are kept in private repositories.
+
+
+
 ## ✳️ Alma Spiral Model v0.1
 *Physiological-Emotional Pattern Recognition Framework*
 
